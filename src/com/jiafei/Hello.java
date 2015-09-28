@@ -9,4 +9,8 @@ public class Hello implements Runnable{
 	public void run() {
 		System.out.println("run");
 	}
+	
+	static class World{
+		
+	}
 }
